@@ -10,6 +10,8 @@ Utilizes ggplot2 for data visualization to create clear and insightful charts.
 Interactive Shiny Apps interface for users to explore and analyze carbon emission data.
 Presents historical trends in carbon emissions for oil, coal, and gas.
 Enables users to filter data by year, region, or other relevant factors.
+<img width="1680" alt="Screenshot 2025-03-09 at 3 19 09 PM" src="https://github.com/user-attachments/assets/70e928be-0beb-483e-a1a5-cefe1a1a3974" />
+
 
 ### **Project Components**
 
